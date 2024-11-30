@@ -1,0 +1,1 @@
+/home/aboubacar/ros2_linux/dev_ws/src/my_drive_robot/launch/rsp_sim.launch.py
