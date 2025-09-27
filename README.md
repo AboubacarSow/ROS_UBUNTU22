@@ -1,11 +1,6 @@
 #     ROS-ROBOT OPERATING SYSTEM [🚀](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
  ![picture](Download_ros2/ros2_humble/ros2_humble.jpeg)
-
-##                                ROS 2 HUMBLE 
-
-
-
 ##                                ROS 2 HUMBLE 
 
 ROS Nedir? ROS, "Robot Operating System" (Robot İşletim Sistemi) kısaltmasıdır. Ancak, ROS aslında bir işletim sistemi değil, robot yazılımlarını geliştirmek için kullanılan bir çerçeve (framework) veya bir yazılım platformudur. ROS, robotların donanım ve yazılım bileşenlerini entegre etmek, robot uygulamaları geliştirmek ve robot sistemlerinin yönetimini sağlamak için bir dizi araç ve kütüphane sunar.
